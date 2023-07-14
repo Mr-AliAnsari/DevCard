@@ -16,16 +16,40 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = E:\Programming\Atria\03-Mvc part2\DevCard\DevCard_MVC
 build_property._RazorSourceGeneratorDebug = 
 
+[E:/Programming/Atria/03-Mvc part2/DevCard/DevCard_MVC/Views/Home/Components/Projects/_Projects.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb21wb25lbnRzXFByb2plY3RzXF9Qcm9qZWN0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Programming/Atria/03-Mvc part2/DevCard/DevCard_MVC/Views/Home/Contact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb250YWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [E:/Programming/Atria/03-Mvc part2/DevCard/DevCard_MVC/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Programming/Atria/03-Mvc part2/DevCard/DevCard_MVC/Views/Home/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+[E:/Programming/Atria/03-Mvc part2/DevCard/DevCard_MVC/Views/Home/View.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxWaWV3LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Programming/Atria/03-Mvc part2/DevCard/DevCard_MVC/Views/Shared/Components/LatestArticles/_LatestArticles.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcTGF0ZXN0QXJ0aWNsZXNcX0xhdGVzdEFydGljbGVzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [E:/Programming/Atria/03-Mvc part2/DevCard/DevCard_MVC/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Programming/Atria/03-Mvc part2/DevCard/DevCard_MVC/Views/Shared/Footer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEZvb3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Programming/Atria/03-Mvc part2/DevCard/DevCard_MVC/Views/Shared/Header.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEhlYWRlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Programming/Atria/03-Mvc part2/DevCard/DevCard_MVC/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [E:/Programming/Atria/03-Mvc part2/DevCard/DevCard_MVC/Views/Shared/_ValidationScriptsPartial.cshtml]
@@ -39,7 +63,3 @@ build_metadata.AdditionalFiles.CssScope =
 [E:/Programming/Atria/03-Mvc part2/DevCard/DevCard_MVC/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
-
-[E:/Programming/Atria/03-Mvc part2/DevCard/DevCard_MVC/Views/Shared/_Layout.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = b-k50tz875j0

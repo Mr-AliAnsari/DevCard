@@ -21,11 +21,10 @@ E:\Programming\Atria\03-Mvc part2\DevCard\DevCard_MVC\obj\Debug\net7.0\staticweb
 E:\Programming\Atria\03-Mvc part2\DevCard\DevCard_MVC\obj\Debug\net7.0\staticwebassets.pack.json
 E:\Programming\Atria\03-Mvc part2\DevCard\DevCard_MVC\obj\Debug\net7.0\staticwebassets.build.json
 E:\Programming\Atria\03-Mvc part2\DevCard\DevCard_MVC\obj\Debug\net7.0\staticwebassets.development.json
-E:\Programming\Atria\03-Mvc part2\DevCard\DevCard_MVC\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 E:\Programming\Atria\03-Mvc part2\DevCard\DevCard_MVC\obj\Debug\net7.0\scopedcss\bundle\DevCard_MVC.styles.css
-E:\Programming\Atria\03-Mvc part2\DevCard\DevCard_MVC\obj\Debug\net7.0\scopedcss\projectbundle\DevCard_MVC.bundle.scp.css
 E:\Programming\Atria\03-Mvc part2\DevCard\DevCard_MVC\obj\Debug\net7.0\DevCard_MVC.dll
 E:\Programming\Atria\03-Mvc part2\DevCard\DevCard_MVC\obj\Debug\net7.0\refint\DevCard_MVC.dll
 E:\Programming\Atria\03-Mvc part2\DevCard\DevCard_MVC\obj\Debug\net7.0\DevCard_MVC.pdb
 E:\Programming\Atria\03-Mvc part2\DevCard\DevCard_MVC\obj\Debug\net7.0\DevCard_MVC.genruntimeconfig.cache
 E:\Programming\Atria\03-Mvc part2\DevCard\DevCard_MVC\obj\Debug\net7.0\ref\DevCard_MVC.dll
+E:\Programming\Atria\03-Mvc part2\DevCard\DevCard_MVC\bin\Debug\net7.0\libman.json

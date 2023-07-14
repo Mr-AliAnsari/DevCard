@@ -1,3 +1,5 @@
+using System;
+
 namespace DevCard_MVC.Models
 {
     public class ErrorViewModel
